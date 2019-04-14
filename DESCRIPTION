@@ -13,3 +13,9 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
+URL: https://github.com/iqis/foofactors
+BugReports: https://github.com/iqis/foofactors/issues
+Imports: 
+    forcats
+Suggests: 
+    testthat
